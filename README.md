@@ -12,4 +12,4 @@ Near the top of the calendar, the application should display the current day. Ad
 
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
-<img src="assets/images/dayplanner.jpg" width="100">
+<img src="assets/images/dayplanner.jpg">
