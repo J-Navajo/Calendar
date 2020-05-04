@@ -11,3 +11,5 @@ Clicking on the save button will store the time and user input in localStorage.
 Near the top of the calendar, the application should display the current day. Additionally, each hour should be color coded to reflect whether the time slot is in the past, the present, or the future. This will change depending on the time of day.
 
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+
+<img src="assets/images/dayplanner.img" width="100">
