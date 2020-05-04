@@ -3,7 +3,7 @@ const date = '2019-03-09';
 const format = 'LLLL';
 const result = moment().format('MMMM Do YYYY, h:mm:ss a');
 let today = $("todays-date");
-$("#todays-date").html(result)
+$("#todays-date").html(result);
 // put the date at the top of the page
 const hourArray = [9, 10, 11, 12, 13, 14, 15, 16, 17];
 
